@@ -1,0 +1,48 @@
+[
+   { "Name":"Amjad",
+    "FNAME":"Ali",
+    "MED":[
+        
+        {"Name":"Panadol",
+        "DOSE":"1+1+1+"
+        },
+        {"Name":"Azithromycin",
+        "DOSE":"1+1+1+"
+        }
+    ],
+    
+    "BLOOD TEST":["CBC,BNB"]
+    
+
+}
+
+{ "Name":"HAMMAD",
+"FNAME":"Ali",
+"MED":[
+        
+    {"Name":"Panadol",
+    "DOSE":"1+1+1+"
+    },
+    {"Name":"Azithromycin",
+    "DOSE":"1+1+1+"
+    }
+],
+"BLOOD TEST":["CBC,BNB"]
+
+}
+
+{ "Name":"MAJID",
+"FNAME":"Ali",
+"MED":[
+        
+    {"Name":"Panadol",
+    "DOSE":"1+1+1+"
+    },
+    {"Name":"Azithromycin",
+    "DOSE":"1+1+1+"
+    }
+],
+"BLOOD TEST":["CBC,BNB"]
+
+}
+]
